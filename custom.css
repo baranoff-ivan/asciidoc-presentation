@@ -1,0 +1,25 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto';
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: 0em;
+  text-transform: none;
+}
+
+.reveal h1 {
+  font-size: 2em;
+}
+
+.reveal h2 {
+  font-size: 1.5em;
+}
+
+.reveal h3 {
+  font-size: 1.25em;
+}
+
