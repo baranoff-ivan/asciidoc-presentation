@@ -1,5 +1,7 @@
 = Title Slide
-
+:imagesdir: images
+:customcss: custom.css
+:revealjs_theme: sky
 
 
 == Slide One
